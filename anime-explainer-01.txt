@@ -33,21 +33,15 @@ HTMLFONT=num_font,Arial,18,B,#000000,CENTER,0,0,0,,#FFFFFF,0.4
 ;font card number
 HTMLFONT=card_font,Arial,6,,#000000,LEFT,0,0,0,,#FFFFFF,0.00
 ;random number (snap)(size)
-HTMLTEXT="1-{(RANDOM NUMERO)}",[RANDOM NUMERO],5%,{200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,num_font
+HTMLTEXT=,"[RANDOM NUMERO]",5%,{200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,num_font
 ;SANA1 (snap)(size)
-HTMLTEXT=,"1.",10%,25%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
-HTMLTEXT="1-{(SANA1)}",[SANA1],{704/39}%,{7507/300}%,{2639/33}%,{3217/300}%,#FFFFFF,0,BE,100,word_font
-HTMLTEXT=,"1. ",10%,{600/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"1.",10%,{600/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 HTMLTEXT=,"[SANA1]",17%,{600/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA2 (snap)(size)
-HTMLTEXT=,"2.",10%,{1000/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
-HTMLTEXT="1-{(SANA2)}",[SANA2],{704/39}%,{2681/75}%,{2639/33}%,{3217/300}%,#FFFFFF,0,BE,100,word_font
-HTMLTEXT=,"2. ",10%,{900/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"2.",10%,{900/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 HTMLTEXT=,"[SANA2]",17%,{900/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA3 (snap)(size)
-HTMLTEXT=,"3.",10%,{1300/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
-HTMLTEXT="1-{(SANA3)}",[SANA3],{704/39}%,{27883/600}%,{2639/33}%,{1063/100}%,#FFFFFF,0,BE,100,word_font
-HTMLTEXT=,"3.",10%,{1200/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"3.",10%,{1200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 HTMLTEXT=,"[SANA3]",17%,{1200/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA4 (snap)(size)
 HTMLTEXT=,"4.",10%,{1500/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
@@ -59,5 +53,5 @@ HTMLTEXT=,"[SANA5]",17%,{1800/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 HTMLTEXT=,"6.",10%,{2100/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 HTMLTEXT=,"[SANA6]",17%,{2100/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;card number
-HTMLTEXT="1-{(KORTIN NUMERO)}",[KORTIN NUMERO],{22/3}%,{1857/20}%,{99/13}%,{268/75}%,#FFFFFF,0,BE,70,card_font
+HTMLTEXT=,"[KORTIN NUMERO]",{22/3}%,{1857/20}%,{99/13}%,{268/75}%,#FFFFFF,0,BE,70,card_font
 ENDVISUAL
