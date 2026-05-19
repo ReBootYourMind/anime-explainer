@@ -1,6 +1,6 @@
 ;This is a nanDECK script that defines how each card will look like in the deck
 ;Link to the card data in a csv file
-LINK=anime-alias-card-data-01.csv
+LINK=anime-explainer-card-data-01.csv
 ;changing units to proper ones
 UNIT = MM
 ;Define Card Size (Standard Poker Size in mm)
