@@ -21,8 +21,14 @@ A physical word-explaining card game created with nanDECK. In this project, play
 4. Ensure the linked CSV file is available in the same folder:
    - `anime-explainer-card-data-01.csv`
 
-5. Run the script inside nanDECK.
-   - The script will generate all cards using the data from the CSV file.
+5. Press Validate and then Build deck
+   - This will render the whole deck and will take time
+
+6. To preview the deck you can press Card preview
+   - This will show just one card but th shown card can be cycled with the buttons
+
+7. To print the deck press Print deck and save the pdf
+   - It is a good habbit to save the pdf so that you can print the same deck again if needed
 
 ## Custom branding
 
