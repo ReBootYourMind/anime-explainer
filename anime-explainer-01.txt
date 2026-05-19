@@ -43,15 +43,15 @@ HTMLTEXT=,"[RANDOM NUMERO]",5%,{200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,num_font
 HTMLTEXT=,"[KORTIN NUMERO]",{22/3}%,{1857/20}%,{99/13}%,{268/75}%,#FFFFFF,0,BE,70,card_font
 ; --- ALL words and their numbers --- :
 ;SANA1 num (snap)(size)
-HTMLTEXT=,"1.",10%,{600/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"1.",10%,{600/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 ;SANA1 word
 HTMLTEXT=,"[SANA1]",17%,{600/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA2 num (snap)(size)
-HTMLTEXT=,"2.",10%,{900/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"2.",10%,{900/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 ;SANA2 word
 HTMLTEXT=,"[SANA2]",17%,{900/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA3 num (snap)(size)
-HTMLTEXT=,"3.",10%,{1200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"3.",10%,{1200/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
 ;SANA3 word
 HTMLTEXT=,"[SANA3]",17%,{1200/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA4 num (snap)(size)
