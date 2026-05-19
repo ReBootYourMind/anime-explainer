@@ -1,0 +1,45 @@
+;This is a nanDECK script that defines how each card will look like in the deck
+;Link to the card data in a csv file
+LINK=anime-alias-card-data-01.csv
+;changing units to proper ones
+UNIT = MM
+;Define Card Size (Standard Poker Size in mm)
+CARDSIZE=63.5,88.9
+;create all 206 cards
+[CARDS]=206
+;border in a visually different color
+BORDER = RECTANGLE, #CCCCCC, 2
+;Margin to make manual cutting easier
+MARGINS = 8,8,8,8
+VISUAL=G, 20, 28
+;Background Image(snap)(size)
+IMAGE=,"logos/etuporro.png",5%,{500/28}%,90%,{1900/28}%,0,P,15
+;Image logo ssatunnaiselle(snap)(size)
+IMAGE=,"logos/etuporro.png",5%,{100/28}%,20%,{400/28}%,0,P
+;logo(snap)(size)
+IMAGE=,"logos/logo_teksti.png",35%,{100/28}%,60%,{400/28}%,0,P
+;inner red border in rust red
+ROUNDRECT=,{1315/429}%,{457/200}%,{40268/429}%,{57257/600}%,#C20E0F,EMPTY,1.5,3,3,R
+;font words (snap)(size)
+HTMLFONT=word_font,Arial,11.5,B,#000000,LEFT,0,0,0,,#FFFFFF,0.0
+;font random number
+HTMLFONT=num_font,Arial,18,B,#000000,CENTER,0,0,0,,#FFFFFF,0.4
+;font card number
+HTMLFONT=card_font,Arial,6,,#000000,LEFT,0,0,0,,#FFFFFF,0.00
+;random number (snap)(size)
+HTMLTEXT=,"[RANDOM NUMERO]",5%,{200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,num_font
+;SANA1 (snap)(size)
+HTMLTEXT=,"1. [SANA1]",10%,{600/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+;SANA2 (snap)(size)
+HTMLTEXT=,"2. [SANA2]",10%,{900/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+;SANA3 (snap)(size)
+HTMLTEXT=,"3. [SANA3]",10%,{1200/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+;SANA4 (snap)(size)
+HTMLTEXT=,"4. [SANA4]",10%,{1500/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+;SANA5 (snap)(size)
+HTMLTEXT=,"5. [SANA5]",10%,{1800/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+;SANA6 (snap)(size)
+HTMLTEXT=,"6. [SANA6]",10%,75%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+;card number
+HTMLTEXT=,"[KORTIN NUMERO]",{3145/429}%,{27857/300}%,{3260/429}%,{1057/300}%,#FFFFFF,0,BE,70,card_font
+ENDVISUAL
