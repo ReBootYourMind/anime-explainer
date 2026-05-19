@@ -11,17 +11,23 @@ CARDSIZE=63.5,88.9
 BORDER = RECTANGLE, #CCCCCC, 2
 ;Margin to make manual cutting easier
 MARGINS = 8,8,8,8
-VISUAL=G, 20, 28
+VISUAL=GPS, 20, 28
 ;Background Image(snap)(size)
-IMAGE=,"logos/etuporro.png",5%,{500/28}%,90%,{1900/28}%,0,P,15
+IMAGE=,"logos/etuporro.png",5%,{600/28}%,90%,{1900/28}%,0,P,15
+IMAGE=,"logos/etuporro.png",5%,{600/28}%,90%,{1900/28}%,0,P,15
 ;Image logo ssatunnaiselle(snap)(size)
-IMAGE=,"logos/etuporro.png",5%,{100/28}%,20%,{400/28}%,0,P
+IMAGE=,"logos/etuporro_reuna.png",5%,{100/28}%,20%,{400/28}%,0,P
 ;logo(snap)(size)
 IMAGE=,"logos/logo_teksti.png",35%,{100/28}%,60%,{400/28}%,0,P
 ;inner red border in rust red
-ROUNDRECT=,{1315/429}%,{457/200}%,{40268/429}%,{57257/600}%,#C20E0F,EMPTY,1.5,3,3,R
+ROUNDRECT=,{121/39}%,{677/300}%,{40237/429}%,{5729/60}%,#C20E0F,EMPTY,1.5,3,3,R
 ;font words (snap)(size)
-HTMLFONT=word_font,Arial,11.5,B,#000000,LEFT,0,0,0,,#FFFFFF,0.0
+HTMLFONT=word_font,Arial,11.5,B,#000000,LEFT,0,0,0.12,#FFFFFF
+;font indexes for SANA rows
+HTMLFONT=word_num_font,Arial,11.5,B,#000000,LEFT,0,0,0.12,#FFFFFF
+;word rows: much lower vertical position and no extra horizontal inset
+HTMLMARGINS=word_font,0%,0,0,0,CENTER
+HTMLMARGINS=word_num_font,0%,0,0,0,CENTER
 ;font random number
 HTMLFONT=num_font,Arial,18,B,#000000,CENTER,0,0,0,,#FFFFFF,0.4
 ;font card number
@@ -29,17 +35,23 @@ HTMLFONT=card_font,Arial,6,,#000000,LEFT,0,0,0,,#FFFFFF,0.00
 ;random number (snap)(size)
 HTMLTEXT=,"[RANDOM NUMERO]",5%,{200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,num_font
 ;SANA1 (snap)(size)
-HTMLTEXT=,"1. [SANA1]",10%,{600/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+HTMLTEXT=,"1.",10%,{600/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"[SANA1]",17%,{600/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA2 (snap)(size)
-HTMLTEXT=,"2. [SANA2]",10%,{900/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+HTMLTEXT=,"2.",10%,{900/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"[SANA2]",17%,{900/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA3 (snap)(size)
-HTMLTEXT=,"3. [SANA3]",10%,{1200/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+HTMLTEXT=,"3.",10%,{1200/28}%,20%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"[SANA3]",17%,{1200/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA4 (snap)(size)
-HTMLTEXT=,"4. [SANA4]",10%,{1500/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+HTMLTEXT=,"4.",10%,{1500/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"[SANA4]",17%,{1500/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA5 (snap)(size)
-HTMLTEXT=,"5. [SANA5]",10%,{1800/28}%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+HTMLTEXT=,"5.",10%,{1800/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"[SANA5]",17%,{1800/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;SANA6 (snap)(size)
-HTMLTEXT=,"6. [SANA6]",10%,75%,85%,{300/28}%,#FFFFFF,0,BE,100,word_font
+HTMLTEXT=,"6.",10%,{2100/28}%,5%,{300/28}%,#FFFFFF,0,BE,100,word_num_font
+HTMLTEXT=,"[SANA6]",17%,{2100/28}%,80%,{300/28}%,#FFFFFF,0,BE,100,word_font
 ;card number
-HTMLTEXT=,"[KORTIN NUMERO]",{3145/429}%,{27857/300}%,{3260/429}%,{1057/300}%,#FFFFFF,0,BE,70,card_font
+HTMLTEXT=,"[KORTIN NUMERO]",{22/3}%,{1857/20}%,{99/13}%,{268/75}%,#FFFFFF,0,BE,70,card_font
 ENDVISUAL
