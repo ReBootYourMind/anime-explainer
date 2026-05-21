@@ -1,0 +1,203 @@
+nouseva numero,kortin numero,sana1,sana2,sana3,sana4,sana5,sana6,random numero
+1,1,Asobi Asobase: Workshop of Fun,Haruno Sakura (Naruto),Dieselpunk,Kuningatar,Päättäjäiset,Riita,4
+2,1,Artifakti,Discord,Shôyu,Ayaya~,Inventory,Studio,2
+3,2,Tifa Lockhart (Final Fantasy VII),Emilia (Re:Zero),Rerun,UwU,Hunter x Hunter,DARLING in the FRANXX,2
+4,2,Digivolve,Shikanoko Nokonoko Koshitantan,John Smith,Nakama,Kilta,A-1 Pictures,4
+5,3,Yakiniku,Wanha Satama,Studio Pierrot,Superchat,Glitsi,Huvipuisto,1
+6,3,Rival,Passi,Frieren: Beyond Journey's End,Re:ZERO -Starting Life in Another World,Tulikärpästen hauta,Käsityö,4
+7,4,Za Warudo,Uusivuosi,Hero (Dragon Quest),Mello (Death Note),Centaur,Sailor Fuku,5
+8,4,Energy,Kawaii,Tanjiro (Demon Slayer),Sakamoto Days,Tatami,Kokuhaku,4
+9,5,Lucina (Fire Emblem),Karkotus,Ihmissusi,Happi (vaate) ,Striimimaraton,Logomo,3
+10,5,Leafeon,Filtteri,Joseph Joestar (JoJo's),Shibuya,Hiroshima,Ki,3
+11,6,Sanji (One Piece),Saitama,Resin,Overpowered,Animal Crossing,Giga-Chad,2
+12,6,Con-Rutto,Kizuna AI,Yamete Kudasai,Ghost Stories,RPG,Alkemia,4
+13,7,Himmel (Frieren),Kana,Laukku,Nani,Energiajuoma,Rentoutuminen,6
+14,7,Hypecon,Zombie,Eris Boreas Greyrat (Mushoku Tensei),Cancel,Lawson,Kyyneleet,4
+15,8,Kasane Teto (Vsynth),Akryylimaalit,Powercreep,Venti (Genshin Impact),Tensei,Kerho-Ilta,2
+16,8,Kuuriimut,Usagimimi,Itadakimasu,Light Yagami (Death Note),Paras Ystävä,Onigiri,3
+17,9,Kirito (Sword Art Online),Omikuji,Ace (One Piece),Pyra (Xenoblade Chronicles 2),Kanbaru (Bakemonogatari),Topias (PJ) ,2
+18,9,Pehmolelu,Toradora!,Striimaaja,Vihreä Tee,Lentävä Sirkkeli,Epäonnistuminen,5
+19,10,Dystopia,Espeon,Kirby,Azusa (K-On!),Robin (One Piece),Klaani,5
+20,10,Psycho-Pass,Zoro (One Piece),Ravintola,Uni,Sushi,Teriyaki,6
+21,11,Made in Abyss,Suuret Silmät,Hammasharjakohtaus,Sentô,Waluigi (Super Mario),Garurumon (Digimon),2
+22,11,Vaihto-Oppilas,Chûnibyo,Pegasus (Yu-Gi-Oh!),Chûhai,Manga-Pokkari,Isabelle (Animal Crossing),3
+23,12,Kawaii Desu Ne,Rimuru Tempest (Tensura),Namco,Donkey Kong (Nintendo),Post-Con Depression,Gluttony (Fullmetal Alchemist),4
+24,12,Aatelisto,Shinto,Kissabussi,Ganyu (Genshin Impact),The Seven Deadly Sins,Rankki,5
+25,13,Ryuk (Death Note),Uintikilpailu,Zen,Mori Calliope,Vastaus-Suklaa,Kazuya (Tekken),5
+26,13,Chibicon,Transformation,All Might (My Hero Academia),Henti,Darra,Anya (Spy x Family),4
+27,14,Sega,Shinigami,Yleisö,Tanssipeli,Suzaku Kururugi (Code Geass),Envy (Fullmetal Alchemist),6
+28,14,Klikkiotsikko,Badge,Riza Hawkeye (Fullmetal Alchemist),MiniStop,Hax,Twitter,1
+29,15,Guild Reward,Tekken,Taikasauva,Kimono,Tubettaja,Sailor Moon,6
+30,15,J-Pop,Villager,Suklaa,Lo-Fi,Kausi,Tournament Arc,2
+31,16,Cheat skill,Kritti,Denji (Chainsaw Man),Poyo,Initial D,Takoyaki,6
+32,16,PC,My Hero Academia,Nen,Karaoke,JustChatting,Robin (HSR),4
+33,17,Demon Lord,Ganbare,Tamperetalo,Nyancat,Dremeli,Titaani,4
+34,17,Katana,Pelistriimi,Fuwa Fuwa Time,Ironmouse,Lurkkaaja,Anime-ilta,6
+35,18,Tonberry (Final Fantasy),Monster of the Week,Kissa-tyttö,Taikuus,Zenless Zone Zero,Mirin,1
+36,18,Level up,Futon,Amber (Genshin Impact),Franky (One Piece),Greed (Fullmetal Alchemist),Nauta,5
+37,19,Kikatusta,Mappa,Foili,L (Death Note),Hu Tao (Genshin Impact),Wario (Super Mario),3
+38,19,Kill la Kill,Prinsessa,White Day,Otaku,Shônen,Nekomimi,2
+39,20,Tankôbon,Meidokahvila,Tulivuori,Slice of Life,Ellen (Zenless Zone Zero),Violet Evergarden,2
+40,20,Tanto Cuore,Origami,Mortal Combat,Keräily,Fuji,Maid,3
+41,21,Super Sayan,OP,Yui (K-On!),Liikkuva linna,Kumarrus,Azumanga Daioh,3
+42,21,Eväsretki,Seikkailija,Wasabi,Pohjamaali,Kunai,Kigurumi,3
+43,22,Tsundere,Areena,EVA (Evangelion),Wailmer,Kilpi,Overlord,3
+44,22,Log Horizon 2,Teppanyaki,Mythra (Xenoblade Chronicles 2),GameOver,Kirsikankukat,Coni,1
+45,23,Hollow (Bleach),Ayanami Rei (Evangelion),Arknights,Miekka,Miso,Kallen Stadtfeld (Code Geass),6
+46,23,Botti,Wotagei,Pochita (Chainsaw Man),Wallscroll,Stamina,Virtuaalitodellisuus,6
+47,24,MaiMai,Bannivasara,Yen,Levi (Attack on Titan),Fani,Prinssi,3
+48,24,Kuplatee,Gyoza,Nico Nico Ni~,Demon Slayer,Graffiti-Seinä,Monster-Girl,4
+49,25,Tadaima,Alkemisti,Clannad: After Story,Valvominen,Relic,Meemi,3
+50,25,Hachikuji (Bakemonogatari),Viisumi,Hovi,Spice and Wolf,Agumon (Digimon),Naruto Shippûden,5
+51,26,Meta Knight (Kirby),Wolf (Star Fox),Law (One Piece),Mochi,Kuningas,Kagebunshin,6
+52,26,Intohimo,Maailmanpyörä,Fullmetal Alchemist: Brotherhood,Tsukimi,Pelaaminen,Shôjo,6
+53,27,Fanfiction,Piilolinssit,Kätkijät,Para Para,Juonittelu,Charles (Code Geass),3
+54,27,Kurapika (HxH),Vinland Saga,Wanderer (Genshin Impact),Senpai,Mana,Hikikomori,5
+55,28,Lonkerot,Yôkai,Avaimenperä,Bleach,Son Goku,Vaporeon,6
+56,28,Roxy Migurdia (Mushoku Tensei),Animekerho,Filleriepisodi,Laneilla,Mahô Shôjo,Nintendo,6
+57,29,Elfen Lied,Krapula,Gintama,Dragon Ball,Anby (Zenless Zone Zero),Mugi-Cha,5
+58,29,Don Quijote,Hype,Fire Force,Dango,Ystävänpäivä,Kaworu Nagisa (EVA),1
+59,30,Kissojen valtakunta,Sinihiuksinen Hahmo,Shibuya Crossing,Luffy Gear 5 (One Piece),Roolipeli,Steins Gate,2
+60,30,Gurren Lagann,Suuttumus,Raiden Shogun (Genshin Impact),Pehmeys,Haarniska,Tulinen,1
+61,31,Koiraihminen,Leffa-Ilta,Mio (K-On!),Darker than Black,Zhongli (Genshin Impact),Automail,4
+62,31,Twiitti,Yleisö Cheerbaa,Dolphin,Sankari,Pizza Hut,Sapporo,6
+63,32,FamilyMart,Mangaka,Roy Mustang (Fullmetal Alchemist),Albedo (Overlord),Ramen,Cardcaptor Sakura,5
+64,32,Kaido (One Piece),Peruukki,S-Rank,Genshin Impact,Sadekausi,Androidi,1
+65,33,Kilpailija,Buffi,Ilotulitus,Uusi rakkaus,Elricin Veljekset,Berserk,2
+66,33,Värilinssit,Mermaid,Okaeri,Gaara (Naruto),Weathering With You,Tapahtuma,1
+67,34,Harajuku,Soul Eater,Ompelu,Subi,Ritsu (K-On!),Sakura,2
+68,34,Strong Zero,Tomodachi-Choco,Puella Magi Madoka Magica,Sylveon,Ritari,Aqua (KonoSuba),2
+69,35,Dogeza,Spoilerit,Limu,Aamupala,Kosto,Meitantei Conan,2
+70,35,Ilta-Hengailu,Vehnätee,Tuomarit,Jujutsu Kaisen,Kamikaze,Fantasiahahmo,6
+71,36,Lopunny,Musiikki,Akvaario,Ranked,InsertCoin,Reinkarnaatio,4
+72,36,Syömäpuikot,Slime,Osaka,Digimon,Klee (Genshin Impact),Smurffi,5
+73,37,Kabuki,Hiekkapaperi,Kyon (Haruhi Suzumiya),Esports,Whitebeard (One Piece),Akira Kurosawa,3
+74,37,Valokuvaus,5-tähden,Exodia (Yu-Gi-Oh!),Homunculus,KonoSuba,Yleisön Suosikki,1
+75,38,Crane Game,Scaramouche (Genshin Impact),Suzume,Oolong,Dr. Pepper,Gawr Gura,1
+76,38,Kohu,Onsen,Some,Nya,Parasyte: The Maxim,Crunchyroll,2
+77,39,Suursiivous,JoJo's Bizarre Adventure,Ex-Arm,Ghost in the shell,Paviljonki,Reiryoku,2
+78,39,Articuno,Ponyo rantakalliolla,Shuriken,Porco Rosso,Assyt,Josei,3
+79,40,Hokage,Light Music Club,One Piece,Donki,Hali,Cosplay-Kisa,3
+80,40,Photoshoot,Tokisaki Kurumi,Ranta-Episodi,Varapuheenjohtaja,Otoshidama,Serveri,3
+81,41,Jiggle Physics ,Iltabileet,Fox-Girl,Great Teacher Onizuka,Big Mom (One Piece),Azur Lane,2
+82,41,Gengar,Ness (EarthBound),Kuppinuudeli,Örkki,Raivo,Liima,6
+83,42,Talvi,Hanami,Sake,Hanekawa (Bakemonogatari),Furina (Genshin Impact),Line,3
+84,42,Marth (Fire Emblem),Higurashi,Tyhjät Silmät (lasittuneet),Taidekuja,Chibi,Donation,1
+85,43,Kakashi (Naruto),Worbla,Jotaro (JoJo's),Pyyhe Pään Päällä,Voitto,Gacha-Pelit,2
+86,43,Sousou no Frieren,Oshi no Ko,Ikebukuro,Scar (Fullmetal Alchemist),Power of Friendship,Koulukengät,2
+87,44,Kotatsu,Tee,Keijo!!!!!!!!,Merimiesuniformu,Loitsu,A-rank,2
+88,44,Monsteri,Lava,Omnimon (Digimon),Taito Station,Uusi elämä,Skitti,3
+89,45,Full Metal Alchemist,Kananmuna,Falco (Star Fox),Mad Scientist,Nosebleed,Koulu,6
+90,45,Viisasten Kivi,Uwabaki,Asuka (Neon Genesis Evangelion),Gari,Meikki,Dragon-Girl,5
+91,46,Animate,Deku (My Hero Academia),Löyly,Bugi,Pelihalli,Honshu,3
+92,46,Sini Silmäinen Valkoinen Lohikäärme,Nagasaki,Kuriboh (YuGiOh),Mushoku Tensei: Jobless Reincarnation,Waifu,Strong (ei mikään fake zero),5
+93,47,Instant Ramen,Barret (Final Fantasy VII),Ase,Joker (Persona 5),Majatalo,Blue Archive,6
+94,47,Blue Lock,Reroll,Slime-Girl,Naamiomies,Lelouch Lamperouge (Code Geass),Esitys,2
+95,48,Gatomon (Digimon),Mustasukkaisuus,Tunnustus,Kesä,Tokyo Tower,Shoppailu,2
+96,48,Yoko Littner (Gurren Lagan),Urheilufestivaali,Pomo,Saber (Fate),Senjougahara (Bakemonogatari),Nekocon,3
+97,49,Silmälappufantasia,Portaali,J-Rock,Kitsunemimi,Sephiroth (Final Fantasy VII),Kybernetiikka,4
+98,49,Primeri,Alkoholi,Itku,Tuuli nousee,Mansikka Kakun Päällä,Paha Organisaatio,3
+99,50,Turri,Zigzagoon,Itachi Uchiha (Naruto),Chopper (One Piece),Katsuragi Misato (Evangelion),Cosplay,4
+100,50,Oden,Roy (Fire Emblem),Lattiamajoitus,Konbini,Near (Death Note),Haunter,2
+101,51,Ghibli,Soijakastike,Mikasa Ackerman (Attack on Titan),Torii-Portti,Nezuko (Demon Slayer),Hellsing Ultimate,2
+102,51,Gabumon (Digimon),Attack on titan,Rent-a-Girlfriend,Nakano Broadway,Spraymaali,Salama,1
+103,52,Parannusjuoma,Yosuga no Sora,Pokémon ,Kami,Yakuza,Poika ja haikara,4
+104,52,Spy x Family,Eren Jaeger (Attack on Titan),Kuumat Lähteet -episodi,Trigger,The Promised Neverland,Toinen Maailma,1
+105,53,Vocaloid,Speedwagon (JoJo's),Inkivääri,Kazuha (Genshin Impact),Kaguya-sama: Love is War,Mario,1
+106,53,Nunnally (Code Geass),Luffy (One Piece),Toad (Super Mario),Zelda (The Legend of Zelda),Aerith (Final Fantasy VII),Moderaattori,3
+107,54,Asu,Chaos Dragon,Umbreon,Koulupuku,ContentCreator,Musiikkikerho,2
+108,54,Asahi,My Little Monster,A.I.,"Mirai Nikki ,The Future Diary",Casual,Usopp (One Piece),1
+109,55,Lomakohde,Caramel Dansen,Fanservice,Hopeanuoli,Hetalia Axis Powers,Wrath (Fullmetal Alchemist),3
+110,55,Kioto,Death Note,Osu!,Protagonisti,Manzai,Kylpylä,5
+111,56,Vesi,Rônin,AE86 (Initial D),Pity (gacha),Chainsaw Man,Popkorni,4
+112,56,Pepsi,Yakisoba,Bulbasaur,Fanitus,Chat,Lahjoitus,6
+113,57,Pride (Fullmetal Alchemist),Musta Maagi,Gon Freecss (HxH),Fate/Grand Order,Donut,Jäätee,3
+114,57,Whale,Kihlauksen Purku,Bakemonogatari,Jousipyssy,Cloud Strife (Final Fantasy VII),Dandere,4
+115,58,Puheenjohtaja,Ram (Re:Zero),Ojamashimasu,Udon,Millenium-Arvoitus,Ikebana,1
+116,58,Spinzaku,Tsunami,Seesamiöljy,Gendo Ikari (Evangelion),Ystävä,One Punch Man,3
+117,59,Kuru kuru,Koju,Salaisuus,Meta,Husbando,Visual Kei,1
+118,59,Jeni,Bowser (Super Mario),Leomon (Digimon),Corrin (Fire Emblem),Tiara,Messukeskus,2
+119,60,Subathon,Ryystäminen,Kylmä Tee,Pyörtyminen,Bunny-girl,Rooli,2
+120,60,Weekly,Otome-Peli,Your Name,Sukuna (Jujutsu Kaisen),Haikyu!!,Matsuri,5
+121,61,Valkosipuli,Oshôgatsu,Sillankaide-Tunnustus,Sakuga,Drop-Rate,Sora (Kingdom Hearts),4
+122,61,Tsukiai,Samurai,AMV,Karma (Assassination Classroom),Temppeli,Gigo,1
+123,62,Quest,Idoli,Purjo,Rudeus Greyrat (Mushoku Tensei),Koululaukku,Banzai,3
+124,62,Lahja,Isekai,Fursuit,Valokuva,Taikatyttö,Toei Animation,6
+125,63,Dio Brando (JoJo's),ASMR,Time Skip,Jolteon,Rytmipelit,Karppi,1
+126,63,Koulureppu,Stand,Waifu Over Meta,Light Novel,Karkki,Byleth (Fire Emblem),1
+127,64,Makuasia,Nikke,Glaceon,Firefly,Mahjong,Pörrö,1
+128,64,Equivalent Exchange,Hinata (Naruto),Miko,Kamera,Kunnia,Maine,5
+129,65,Tsumugi (K-On!),Nico Nico Douga,Status Screen,Assembly,Pakkomielle,Vaporwave,6
+130,65,Gambatte,Häviö,Yuki Nagato (Haruhi Suzumiya),Lucky Star,Maku,City Pop,5
+131,66,Kenkälokerot,Mecha,Chrom (Fire Emblem),Editointi,Noob,Harjoituspuikot,2
+132,66,Koulufestivaali,Mob Psycho 100,Gakuran,Sauva,Sasuke Uchiha (Naruto),Sunrise,4
+133,67,Link (The Legend of Zelda),Magazine,Sibeliustalo,Sword Art Online,Trigun,High School of the Dead,5
+134,67,Lapsuudenystävä,Taiyaki,Pupa,Captain Falcon (F-Zero),Deadman Wonderland,Taiko no Tatsujin,1
+135,68,Rakkaudentunnustus,Alphonse Elric (Fullmetal Alchemist),Nami (One Piece),Kangas,Mushishi,Pusu,4
+136,68,Haltija,Koro-Sensei (Assassination Classroom),Kattila,Post-Apokalyptinen,Tonkatsu,Akihabara ,4
+137,69,No Game No Life,The Rising of the Shield Hero,Rekka-Kun,Thumbnail,DDR,Succubus,6
+138,69,Sugoi,Lamia,Saiyalainen,Kaksoiselämä,Giri-Choco,Uma Musume,2
+139,70,Kikin lähettipalvelu,Winry Rockbell (Fullmetal Alchemist),Ganondorf (The Legend of Zelda),Kulttuurifestivaali,Ystävyyden Voima,7-Eleven,6
+140,70,Ainz Ooal Gown (Overlord),Ayaka (Genshin Impact),InuYasha,Haaremi,Darkness (KonoSuba),Pulli,5
+141,71,Kylpytakki,Fukushima,Sauna,Arigato,Princess Peach (Super Mario),Raha,2
+142,71,Reverse Harem,Flareon,Shanks (One Piece),Cockpit,Itsuki Koizumi (Haruhi Suzumiya),Akame ga Kill!,5
+143,72,Kone,Taverna,Mewtwo,Maameren tarinat,Unohdettu Muisto,Killua Zoldyck (HxH),4
+144,72,Boba,FFFight,Treffit,Christina (Steins Gate),School Days,Maskotti,5
+145,73,Super Smash Bros.,Sipsit,F2P,Palkinto,JRPG,Suukko,5
+146,73,Kuudere,Kevätsipuli,Proppi,Lopetuseremonia,Shinkansen,Miazaki,1
+147,74,Scale Figuuri,Retkeily,Moltres,Makima (Chainsaw Man),Prizefiguuri,Hayao Miyazaki,2
+148,74,Togepi,Sloth (Fullmetal Alchemist),Loid Forger (Spy x Family),Hololive,Kokis,Yor Forger (Spy x Family),6
+149,75,Haori (vaate),Shinjuku,Yandere-katse,Beat Saber,Weiß Schwarz,Natto,4
+150,75,Patamon (Digimon),Kaeya (Genshin Impact),Greymon (Digimon),Dorayaki,Puhuva Eläin,Pelaaja,5
+151,76,Code Geass,Suicune,Guilty Crown,Kaali,Madhouse,Daily,5
+152,76,Fate/Stay Night,Hanabi,Melonpan,Paimon (Genshin Impact),Pikachu,Kirin,1
+153,77,Season,Chobits,Yukicon,C.C. (Code Geass),Honmei-Choco,Waifu War,6
+154,77,Transhumanismi,Jäähile,Fandom,Kitsunecon,Miljöö,Kansai,6
+155,78,Geisha,Rakkaus,Tanssi,Con-Bussi,Summoning,Matcha,6
+156,78,The Devil is a Part-Timer!,Kyoto Animation,Chashu,Kirei,Keltuainen,Billy (Zenless Zone Zero),1
+157,79,Zapdos,Tyyny,Rahastonhoitaja,Ike (Fire Emblem),Figma,Olut,6
+158,79,Puisto,Sormus,Shinzo Abe,Steampunk,WataMote,Maomao (The Apotechary Diaries) ,5
+159,80,Pinssi,Party,Kunnia-Maininta,Maailmanpelastus,Rem (Re:Zero),Shonen Jump,1
+160,80,Orange-Kun,Seinen,Robin (Fire Emblem),Takopii,Dance Dance Revolution,Muodonmuutos,4
+161,81,Figuuri,Kitsune,The Melancholy of Haruhi Suzumiya,Mudkip,Luokka,Hardcore,5
+162,81,Kinkku,Wiggi,Blazer,Soba,Kahvittelu,Pukuhuone,2
+163,82,Chakra,Inumimi,Todoroki (My Hero Academia),Potion,Gilgamesh (Fate),Makuupussi,5
+164,82,Cyberpunk,Nerffi,Haki,Tokio,Serial Experiments Lain,Ramune,4
+165,83,Black Butler,Kenkien Vaihto,Taidekirja,Mikuru Asahina (Haruhi Suzumiya),Hokkaido,Luigi ,6
+166,83,Söpöys,Seiyû,Final Fantasy,Nendoroid,Deredere,Harpy,5
+167,84,Vtuber,Skill Tree,Battle Pass,Hatsune Miku,Hymy,Okinawa,4
+168,84,Diluc (Genshin Impact),Possu,Kuumaliima,Tilaaja,Festivaali,Baka,4
+169,85,Lanit,Samus Aran (Metroid),Tokyo Ghoul,Hatsum?de,Wuthering Waves,Laputa – linna taivaalla,3
+170,85,Arcade,Miku-Purkki,Doujinshi,Live2D,Classroom of the Elite,Opiskelijakunta,5
+171,86,Tôhoku,Brook (One Piece),Kädenpito,Lust (Fullmetal Alchemist),Desucon,Sisätossut,2
+172,86,Seikkailu,Waifu-Sota,Nuudelit,Split Cour,Bobobo-bo Bo-bobo,Wit Studio,6
+173,87,Misa Misa (Death Note),Z?ni,Street Fighter,Pöytäroolipeli,Superi,Shipata,6
+174,87,Ridley (Metroid),Seuraaja,Gobliini,Cowboy Bebop,Hououin Kyouma (Steins Gate),Vampyyri,5
+175,88,Prinsessa Kaguyan taru,Syksy,Omae wa mou shindeiru,Punastuminen,Fox McCloud (Star Fox),Rate-Up,1
+176,88,Glowstick,Seifuku,Sabo (One Piece),Neon Genesis Evangelion,Continue,Moshi Moshi,3
+177,89,Vuori,Transmutation,Kaavat,Follower,Matcha Latte,Schneizel (Code Geass),1
+178,89,Hisoka Morow (HxH),Joey Wheeler (Yu-Gi-Oh!),Shikoku,Rakkauden Voima,Taifuuni,Butler,4
+179,90,Limit Break,King Dedede (Kirby),Mode,Ninja,Seuraavaa conia odotellessa,Rakettiryhmä,1
+180,90,Subarashii,Voittaja,Sihteeri,Siivouspäivä,Maanjäristys,Osechi,5
+181,91,Sound Voltex (rytmipeli),Xiao (Genshin Impact),Kyushu,4-tähden,Hirviö,Usada Pekora,4
+182,91,Pyhäkkö,Kätyri,Charizard,Konsoli,Redo of Healer,Bang Bang Bang Shshshshs,3
+183,92,Nightcore,Pilotti,Sensei,CloverWorks,Pörröisyys,Vampire Holmes,6
+184,92,Omistushalu,Kaupunki Tuhoutuu,MegaDonki,Seicomart,Chocobo,Yoshi,1
+185,93,Aldnoah.Zero,Kofeiini,Okonomiyaki,Lolita (muoti),Pärinä,Tokyo Mew Mew,6
+186,93,Naruto (ruoka),Miso-Keitto,Teeaika,Paahtoleipä suussa juokseminen,Haneda,Eevee,1
+187,94,Sakset,Banjo-Kazooie,Chunithm (rytmipeli),Natsuki Subaru (Re:Zero),Henkien Kätkemä,Megumin (KonoSuba),1
+188,94,Terry Bogard (Fatal Fury),Juliste,Villainess,Kääpiö,Taikaisku,Akira,3
+189,95,Pimeyden Voimat,Lucas (Mother 3),Dakimakura,Panty & Stocking with Garterbelt,Magical Girl,Antagonisti,3
+190,95,Bossi,Cactuar,Kirsikankukkien Terälehdet,Koulu-Bändi,Puku,Mecha-Taistelu,6
+191,96,Nichijou - My Ordinary Life,Booba,Puhekanava,Turnaus,Omake,Riisinkeitin,4
+192,96,Riisiviinietikka,Jäsen,Shinji Ikari (Evangelion),Katsu Curry,Tsuyu,Yandere,3
+193,97,Animecon,Spoilerivaroitus,Kakigôri,Tracon,Varjomaailma,Agapio Racing Team,3
+194,97,Totoro,Komeat Miehet,Gacha,Satou Kazuma (KonoSuba),Gundam,Matka,5
+195,98,Circle,Striimaus,Bones,Adventurer,K-On!,Edward Elric (Fullmetal Alchemist),5
+196,98,Kevät,Aqua (Oshi no Ko) ,Nukkuminen,Tofu,Lohikäärme,Noppa,4
+197,99,Moogle,Astolfo (Fate/Apocrypha),Yukata,Yatai,Snorlax,Aho-ge,1
+198,99,Bento (-laatikko),Seto Kaiba (Yu-Gi-Oh!),Nagisa (Assassination Classroom),Bakugo (My Hero Academia),Yugi (Yu-Gi-Oh!),Skelter Heaven,2
+199,100,Kôhai,Moe,Maalaus,Tonkotsu Ramen,Prinsessa Mononoke,Comeback,1
+200,100,Kakku,Draama,Gojo Satoru (Jujutsu Kaisen),Club Sega,24h striimi,Ufotable,4
+201,101,ANIME-EXPLAINER,Selitä korttien sanoja,100 korttia,3-8+ pelaajaa,Ikäsuositus: 13+,Peliaika: 15-45min,1
+202,101,ANIME-EXPLAINER,Selitä korttien sanoja,100 korttia,3-8+ pelaajaa,Ikäsuositus: 13+,Peliaika: 15-45min,1
